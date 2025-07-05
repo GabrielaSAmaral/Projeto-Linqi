@@ -1,0 +1,482 @@
+{
+    "loja_1_curva_A.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 8,
+            "min_child_samples": 20
+        }
+    },
+    "loja_1_curva_B.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "min_child_samples": 10
+        }
+    },
+    "loja_1_curva_C.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 5,
+            "min_child_samples": 10
+        }
+    },
+    "loja_1_curva_D.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 8,
+            "min_child_samples": 20
+        }
+    },
+    "loja_2_curva_A.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "min_child_samples": 20
+        }
+    },
+    "loja_2_curva_B.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 8,
+            "min_child_samples": 20
+        }
+    },
+    "loja_2_curva_C.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 8,
+            "min_child_samples": 20
+        }
+    },
+    "loja_2_curva_D.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 8,
+            "min_child_samples": 10
+        }
+    },
+    "loja_3_curva_A.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "min_child_samples": 20
+        }
+    },
+    "loja_3_curva_B.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 5,
+            "min_child_samples": 20
+        }
+    },
+    "loja_3_curva_C.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 8,
+            "min_child_samples": 10
+        }
+    },
+    "loja_3_curva_D.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 8,
+            "min_child_samples": 10
+        }
+    },
+    "loja_4_curva_A.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "min_child_samples": 20
+        }
+    },
+    "loja_4_curva_B.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 8,
+            "min_child_samples": 20
+        }
+    },
+    "loja_4_curva_C.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 8,
+            "min_child_samples": 10
+        }
+    },
+    "loja_4_curva_D.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 8,
+            "min_child_samples": 20
+        }
+    },
+    "loja_5_curva_A.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 8,
+            "min_child_samples": 10
+        }
+    },
+    "loja_5_curva_B.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "min_child_samples": 20
+        }
+    },
+    "loja_5_curva_C.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 8,
+            "min_child_samples": 10
+        }
+    },
+    "loja_5_curva_D.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 8,
+            "min_child_samples": 10
+        }
+    },
+    "loja_6_curva_A.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "min_child_samples": 20
+        }
+    },
+    "loja_6_curva_B.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 8,
+            "min_child_samples": 10
+        }
+    },
+    "loja_6_curva_C.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 8,
+            "min_child_samples": 20
+        }
+    },
+    "loja_6_curva_D.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 8,
+            "min_child_samples": 10
+        }
+    },
+    "loja_7_curva_A.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "min_child_samples": 10
+        }
+    },
+    "loja_7_curva_B.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 8,
+            "min_child_samples": 20
+        }
+    },
+    "loja_7_curva_C.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 8,
+            "min_child_samples": 10
+        }
+    },
+    "loja_7_curva_D.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 8,
+            "min_child_samples": 10
+        }
+    },
+    "loja_8_curva_A.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 8,
+            "min_child_samples": 10
+        }
+    },
+    "loja_8_curva_B.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "min_child_samples": 20
+        }
+    },
+    "loja_8_curva_C.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 8,
+            "min_child_samples": 10
+        }
+    },
+    "loja_8_curva_D.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 8,
+            "min_child_samples": 10
+        }
+    },
+    "loja_9_curva_A.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 8,
+            "min_child_samples": 10
+        }
+    },
+    "loja_9_curva_B.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 8,
+            "min_child_samples": 20
+        }
+    },
+    "loja_9_curva_C.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 8,
+            "min_child_samples": 20
+        }
+    },
+    "loja_9_curva_D.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 8,
+            "min_child_samples": 10
+        }
+    },
+    "loja_10_curva_A.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 5,
+            "min_child_samples": 20
+        }
+    },
+    "loja_10_curva_B.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.1,
+            "max_depth": 8,
+            "min_child_samples": 20
+        }
+    },
+    "loja_10_curva_C.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 8,
+            "min_child_samples": 20
+        }
+    },
+    "loja_10_curva_D.csv": {
+        "baixo": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "min_child_samples": 10
+        },
+        "alto": {
+            "learning_rate": 0.05,
+            "max_depth": 5,
+            "min_child_samples": 10
+        }
+    }
+}
